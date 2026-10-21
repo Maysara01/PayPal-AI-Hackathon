@@ -1,0 +1,40 @@
+[
+  {
+    "id": "laptop-001",
+    "name": "Student Laptop 16GB",
+    "price": 499.0,
+    "currency": "USD",
+    "image": "",
+    "url": "https://example.com/products/laptop-001",
+    "specs": {
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "silver"
+    }
+  },
+  {
+    "id": "laptop-002",
+    "name": "Laptop Pro 32GB",
+    "price": 799.0,
+    "currency": "USD",
+    "image": "",
+    "url": "https://example.com/products/laptop-002",
+    "specs": {
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "color": "black"
+    }
+  },
+  {
+    "id": "headphones-001",
+    "name": "Wireless Headphones",
+    "price": 39.0,
+    "currency": "USD",
+    "image": "",
+    "url": "https://example.com/products/headphones-001",
+    "specs": {
+      "type": "wireless",
+      "color": "black"
+    }
+  }
+]
